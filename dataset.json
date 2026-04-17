@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Madison, Wisconsin with a population of over 269k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Madison, Wisconsin, US",
-  "export_job_id": "2531834e-c5be-4544-8157-48c981da65b5",
+  "export_job_id": "bb66f3a3-2f63-451d-bde7-cc48f96793e4",
   "github_org": "Beamstation-Datasets",
   "id_short": 796569,
   "location_name": "Madison",
   "location_type": "city",
   "repo_name": "all-restaurants-in-madison-wisconsin-us-sample-796569",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/796569/beamstation_796569_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_pct": 9.59,
+  "sample_pct": 9.98,
   "sample_records": 91,
   "sample_sha256": "5a96b345d6c86f6038b1216b074011167f829fd60cc9236bded084cc6c1e00eb",
   "sample_size_bytes": 358507,
-  "total_records": 949,
-  "updated_at": "2026-04-07T10:54:59.287260+00:00"
+  "total_records": 912,
+  "updated_at": "2026-04-14T10:45:12.766235+00:00"
 }
