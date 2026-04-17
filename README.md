@@ -9,9 +9,9 @@
 | Dataset ID | `796569` |
 | Location | Madison |
 | Category | Restaurants |
-| Full dataset size | 949 records |
-| Free sample size | 91 records (9.59%) |
-| Last export | 2026-04-07T10:54:59.287260+00:00 |
+| Full dataset size | 912 records |
+| Free sample size | 91 records (9.98%) |
+| Last export | 2026-04-14T10:45:12.766235+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-madison-wisconsin-us-sample-796569/releases/download/sample-latest/beamstation_796569_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
