@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e73f8104-c0b7-477d-8d38-40efc9d51516",
+  "export_job_id": "fb520282-f4f6-4fc4-adf4-9e0459c867c2",
   "id_short": 796569,
-  "published_at": "2026-04-21T19:49:32Z",
+  "published_at": "2026-04-28T19:28:10Z",
   "repo_name": "all-restaurants-in-madison-wisconsin-us-sample-796569",
   "sample_asset_name": "beamstation_796569_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/796569/beamstation_796569_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "356f200d2f393ac1dcf461dca9b737fdbf5b5bf37758011b7845103d5e298d21",
-  "sample_size_bytes": 230119,
-  "total_records": 604
+  "sample_records": 89,
+  "sample_sha256": "cb8a0271a129523ef39f28617e7a513f50db57cbcf0ace179498ad47f312bdf3",
+  "sample_size_bytes": 308468,
+  "total_records": 892
 }
