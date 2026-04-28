@@ -1,6 +1,6 @@
 # All Restaurants in Madison, Wisconsin, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 89 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `796569` |
 | Location | Madison |
 | Category | Restaurants |
-| Full dataset size | 604 records |
-| Free sample size | 60 records (9.93%) |
-| Last export | 2026-04-21T11:10:57.544084+00:00 |
+| Full dataset size | 892 records |
+| Free sample size | 89 records (9.98%) |
+| Last export | 2026-04-28T11:34:51.611313+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-madison-wisconsin-us-sample-796569/releases/download/sample-latest/beamstation_796569_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
